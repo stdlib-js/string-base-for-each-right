@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import forEachRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-for-each-right@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/string-base-for-each-right/tags). For example,
+
+```javascript
 import forEachRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-for-each-right@v0.1.0-esm/index.mjs';
 ```
 
@@ -125,7 +130,7 @@ var cnt = ctx.count;
 <body>
 <script type="module">
 
-import forEachRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-for-each-right@v0.1.0-esm/index.mjs';
+import forEachRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-for-each-right@esm/index.mjs';
 
 function log( value, index ) {
     console.log( '%d: %s', index, value );
