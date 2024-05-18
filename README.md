@@ -166,6 +166,13 @@ forEachRight( '\uD834\uDD1E', log );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/string-base/for-each`][@stdlib/string/base/for-each]</span><span class="delimiter">: </span><span class="description">invoke a function for each UTF-16 code unit in a string.</span>
+-   <span class="package-name">[`@stdlib/string-base/for-each-code-point-right`][@stdlib/string/base/for-each-code-point-right]</span><span class="delimiter">: </span><span class="description">invoke a function for each Unicode code point in a string, iterating from right to left.</span>
+
 </section>
 
 <!-- /.related -->
@@ -243,6 +250,10 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/string-base-for-each-right/main/LICENSE
 
 <!-- <related-links> -->
+
+[@stdlib/string/base/for-each]: https://github.com/stdlib-js/string-base-for-each
+
+[@stdlib/string/base/for-each-code-point-right]: https://github.com/stdlib-js/string-base-for-each-code-point-right
 
 <!-- </related-links> -->
 
