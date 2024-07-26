@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import forEachRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-for-each-right@deno/mod.js';
+import forEachRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-for-each-right@v0.1.1-deno/mod.js';
 ```
 
 #### forEachRight( str, clbk\[, thisArg ] )
@@ -120,7 +120,7 @@ var cnt = ctx.count;
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import forEachRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-for-each-right@deno/mod.js';
+import forEachRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-for-each-right@v0.1.1-deno/mod.js';
 
 function log( value, index ) {
     console.log( '%d: %s', index, value );
