@@ -38,18 +38,6 @@
 
 <!-- /.features -->
 
-<section class="issues">
-
-### Closed Issues
-
-This release closes the following issue:
-
-[#856 ](https://github.com/stdlib-js/stdlib/issues/856 )
-
-</section>
-
-<!-- /.issues -->
-
 <section class="commits">
 
 ### Commits
