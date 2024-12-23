@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2024-12-23)
 
 <section class="commits">
 
@@ -79,7 +79,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 <details>
 
 -   [`fb8b73b`](https://github.com/stdlib-js/stdlib/commit/fb8b73b56151797a99a8ce4703f1cf5848109084) - **refactor:** improve type inference and update descriptions _(by Athan Reines)_
--   [`0aa7b4a`](https://github.com/stdlib-js/stdlib/commit/0aa7b4ad8adfde545ba39a7a4d5ebf1afc502342) - **feat:** add `string/base/for-each-right` [(#1369)](https://github.com/stdlib-js/stdlib/pull/1369) _(by Khaldon, Philipp Burckhardt)_
+-   [`0aa7b4a`](https://github.com/stdlib-js/stdlib/commit/0aa7b4ad8adfde545ba39a7a4d5ebf1afc502342) - **feat:** add `string/base/for-each-right` [(#1369)](https://github.com/stdlib-js/stdlib/pull/1369) _(by Ahmed Khaled, Philipp Burckhardt)_
 
 </details>
 
@@ -93,8 +93,8 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Ahmed Khaled
 -   Athan Reines
--   Khaldon
 -   Philipp Burckhardt
 
 </section>
