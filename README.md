@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import forEachRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-for-each-right@esm/index.mjs';
+import forEachRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-for-each-right@v0.1.2-esm/index.mjs';
 ```
 
 #### forEachRight( str, clbk\[, thisArg ] )
@@ -125,7 +125,7 @@ var cnt = ctx.count;
 <body>
 <script type="module">
 
-import forEachRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-for-each-right@esm/index.mjs';
+import forEachRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-for-each-right@v0.1.2-esm/index.mjs';
 
 function log( value, index ) {
     console.log( '%d: %s', index, value );
